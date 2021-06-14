@@ -4,6 +4,7 @@
 - 🇺🇦  Ukraine, Kiev
 - 💻 I'm Junior Frontend Developer 
 - ✉️ How to reach me: velichkoalsprog@gmail.com
+- 👇🏻  My projects here  👇🏻
 
 <!---
 velichkoals/velichkoals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
