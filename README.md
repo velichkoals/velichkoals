@@ -2,7 +2,7 @@
 - 📌 18 y.o
 - 🎓 Student of National Aviation University (Computer engineering)
 - 🇺🇦  Ukraine, Kiev
-- 💻 I'm Junoir Frontend Developer 
+- 💻 I'm Junior Frontend Developer 
 - ✉️ How to reach me: velichkoalsprog@gmail.com
 
 <!---
