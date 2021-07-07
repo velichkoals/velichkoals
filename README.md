@@ -12,7 +12,7 @@
 -Studying:
 
 
-<img src="https://img.icons8.com/officel/40/000000/react.png"/> -- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> -- <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/officel/40/000000/react.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
 
 
