@@ -9,7 +9,7 @@
 
 <img src="https://img.icons8.com/cotton/48/000000/folder-invoices--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/>
 
--Studying:
+- Studying:
 
 
 <img src="https://img.icons8.com/officel/40/000000/react.png"/>  <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/40/000000/typescript.png"/> <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
