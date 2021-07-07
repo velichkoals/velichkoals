@@ -13,7 +13,7 @@
 - Socials:
 
 
-<a href="https://t.me/velichkoals"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href="https://t.me/velichkoals" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 
 
 - Studying:
