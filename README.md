@@ -1,9 +1,9 @@
-<h4>- 👋🏼 Hi, I’m @velichkoals
+- 👋🏼 Hi, I’m @velichkoals
 - 📌 18 y.o
 - 🎓 Student of National Aviation University (Computer engineering)
 - 🇺🇦  Ukraine, Kiev
 - 💻 I'm Frontend Developer 
-- ✉️ How to reach me: velichkoalsprog@gmail.com </h4>
+- ✉️ How to reach me: velichkoalsprog@gmail.com 
 
 
 
