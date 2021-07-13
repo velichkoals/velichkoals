@@ -1,4 +1,4 @@
-<h3>- 👋🏼 Hi, I’m @velichkoals</h3>
+<h3>* 👋🏼 Hi, I’m @velichkoals</h3>
 <h3>- 📌 18 y.o</h3>
 <h3>- 🎓 Student of National Aviation University ```(Computer engineering)```</h3>
 <h3>- 🇺🇦  Ukraine, Kiev</h3>
