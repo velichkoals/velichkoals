@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m @velichkoals
+- <h2>👋🏼 Hi, I’m @velichkoals</h2>
 - 📌 18 y.o
 - 🎓 Student of National Aviation University (Computer engineering)
 - 🇺🇦  Ukraine, Kiev
