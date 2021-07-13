@@ -1,6 +1,6 @@
 - <h3>👋🏼 Hi, I’m @velichkoals</h3>
 - <h3>📌 18 y.o</h3>
-- <h3>🎓 Student of National Aviation University ```(Computer engineering)```</h3>
+- <h3>🎓 Student of National Aviation University</h3> `(Computer engineering)`
 - <h3>🇺🇦  Ukraine, Kiev</h3>
 - <h3>💻 I'm Frontend Developer</h3> 
 - <h3>✉️ How to reach me: velichkoalsprog@gmail.com</h3> 
