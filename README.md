@@ -1,5 +1,4 @@
 - 👋🏼 Hi, I’m @velichkoals
-- 📌 18 y.o
 - 🎓 Student at National Aviation University `(Computer engineering)`
 - 🇺🇦  Ukraine, Kiev
 - 💻 I'm Frontend Developer 
