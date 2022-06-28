@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m @velichkoals
-- 🎓 Student at National Aviation University `(Computer engineering)`
+- 🎓 Student at National Aviation University `(Computer Engineering)`
 - 🇺🇦  Ukraine, Kyiv
 - 💻 I'm Front-End Developer 
 - ✉️ How to reach me: velichkoalsprog@gmail.com 
