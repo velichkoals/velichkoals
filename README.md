@@ -1,10 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=velichkoals&hide=issues&show_icons=true&theme=tokyonight&include_all_commits=true&text_color=c9d1d9" alt="velichkoals" align="right" />
 
 - 👋🏼 Hey, I’m Alexey Velichko
+- :round_pushpin:  Ukraine, Kyiv
 - 💻 I'm a Front-End Developer 
 - 🎓 Student at the Faculty of Computer Engineering
-- :round_pushpin:  Ukraine, Kyiv
-- ✉️ How to reach me: velichkoalsprog@gmail.com
 
 ## Tech Skills
 
@@ -173,3 +172,4 @@
 - :iphone: &nbsp;**[Instagram](https://www.instagram.com/velichkoals_/)**
 - :seedling: &nbsp;**[Twitter](https://twitter.com/velichkoals)**
 - :bulb: &nbsp;**[LeetCode](https://leetcode.com/velichkoals/)**
+- :mailbox: &nbsp;**velichkoalsprog@gmail.com**
