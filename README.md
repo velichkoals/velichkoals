@@ -40,13 +40,6 @@
       </a>
       <br>Sass
     </td>
-   <td align="center" width="96">
-      <a href="#velichkoals-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
   </tr>
 </table>
 
@@ -90,6 +83,13 @@
       </a>
       <br>MUI
     </td>
+    <td align="center" width="96">
+      <a href="#velichkoals-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
     <td align="center" width="96"> 
       <a href="#velichkoals-tech" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
