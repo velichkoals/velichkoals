@@ -59,42 +59,29 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96"> 
-      <a href="#velichkoals-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#velichkoals-tech">
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
-    <td align="center" width="96">
-      <a href="#velichkoals-tech">
-         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#velichkoals-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
     <td align="center" width="96">
       <a href="#velichkoals-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-  </tr> 
+        <td align="center" width="96">
+      <a href="#velichkoals-tech">
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td>
+     <td align="center" width="96"> 
+      <a href="#velichkoals-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
     <td align="center" width="96"> 
       <a href="#velichkoals-tech" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
       </a>
-      <br>npm
+      <br>NestJS
     </td>
   </tr> 
 </table>
