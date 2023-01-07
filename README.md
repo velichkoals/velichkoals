@@ -61,11 +61,37 @@
     </td>
     <td align="center" width="96">
       <a href="#velichkoals-tech">
+        <img src="https://user-images.githubusercontent.com/84346435/211160040-75953f77-54c8-4d12-95d6-4272a82f520f.png" width="48" height="48" alt="effector" />
+      </a>
+      <br>effector
+    </td>
+     <td align="center" width="96">
+      <a href="#velichkoals-tech">
+        <img src="https://user-images.githubusercontent.com/84346435/211160139-1d9e8d9e-e3f4-48ad-8185-3fceae19959b.png" width="48" height="48" alt="formik" />
+      </a>
+      <br>Formik
+    </td>
+    <td align="center" width="96">
+      <a href="#velichkoals-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#velichkoals-tech">
+        <img src="https://user-images.githubusercontent.com/84346435/211160247-62ac3e52-87e7-45cf-9104-5dd284340e64.png" width="48" height="48" alt="Chakra" />
+      </a>
+      <br>ChakraUI
+    </td>
+  </tr> 
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#velichkoals-tech" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
+      </a>
+      <br>NestJS
+    </td>
+     <td align="center" width="96">
       <a href="#velichkoals-tech">
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
       </a>
@@ -79,11 +105,11 @@
     </td>
     <td align="center" width="96"> 
       <a href="#velichkoals-tech" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
+        <img src="https://user-images.githubusercontent.com/84346435/211160393-3a34c241-2d33-4576-8af4-586ddb28a9f0.png" width="48" height="48" alt="typeorm" />
       </a>
-      <br>NestJS
+      <br>TypeORM
     </td>
-  </tr> 
+  </tr>
 </table>
 
 >  Code quality & Testing
