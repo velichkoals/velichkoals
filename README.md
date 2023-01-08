@@ -109,6 +109,13 @@
       </a>
       <br>TypeORM
     </td>
+<td align="center" width="96"> 
+      <a href="#velichkoals-tech" >
+        <img src="https://user-images.githubusercontent.com/84346435/211192739-fe845870-aed2-4211-a29c-ace569e359c3.svg" width="48" height="48" alt="postgres" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
   </tr>
 </table>
 
