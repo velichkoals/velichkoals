@@ -3,7 +3,7 @@
 
 - 👋🏼 Hey, I’m Alexey Velichko
 - :round_pushpin:  Ukraine, Kyiv
-- 💻 I'm a Front-end Developer at **[HolyWater](https://holywater.tech/)** (**[Genesis](https://www.gen.tech/)**)
+- 💻 I'm a Full Stack Developer at **[HolyWater](https://holywater.tech/)** (**[Genesis](https://www.gen.tech/)**)
 - 🎓 Student at the Faculty of Computer Engineering
 
 ## Tech Skills
