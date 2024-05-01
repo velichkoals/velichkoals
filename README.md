@@ -192,5 +192,4 @@
 - :phone: &nbsp;**[Telegram](https://t.me/velichkoals)**
 - :iphone: &nbsp;**[Instagram](https://www.instagram.com/velichkoals_/)**
 - :seedling: &nbsp;**[Twitter](https://twitter.com/velichkoals)**
-- :bulb: &nbsp;**[LeetCode](https://leetcode.com/velichkoals/)**
 - :mailbox: &nbsp;**velichkoalsprog@gmail.com**
