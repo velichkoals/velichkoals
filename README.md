@@ -190,6 +190,4 @@
  -->
 - :globe_with_meridians: &nbsp;**[LinkedIn](https://www.linkedin.com/in/velichkoals/)**
 - :phone: &nbsp;**[Telegram](https://t.me/velichkoals)**
-- :iphone: &nbsp;**[Instagram](https://www.instagram.com/velichkoals_/)**
-- :seedling: &nbsp;**[Twitter](https://twitter.com/velichkoals)**
 - :mailbox: &nbsp;**velichkoalsprog@gmail.com**
