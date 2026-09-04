@@ -1,7 +1,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=velichkoals&hide=issues&show_icons=true&theme=tokyonight&include_all_commits=true&text_color=c9d1d9" alt="velichkoals" align="right" /> -->
 
 
-- 👋🏼 Hey, I’m Alexey Velichko
+- 👋🏼 Hey, I’m Oleksii Velychko
 - :round_pushpin:  Porto, Portugal
 - 💻 Product Lead
 
